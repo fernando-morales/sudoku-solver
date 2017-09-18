@@ -20,9 +20,16 @@ if x pos > 9:
 """
 map =  [ 
 
-           [ [True, 2 ], [False, 0 ], [False, 0 ] ], 
-           [ [False, 0 ], [True , 1 ], [False, 0 ] ], 
-           [ [False, 0 ], [False, 0 ], [False, 0 ] ] 
+           [ [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ] ], 
+           [ [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ] ], 
+           [ [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ] ],
+           [ [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ] ], 
+           [ [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ] ], 
+           [ [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ] ],
+           [ [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ] ], 
+           [ [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ] ], 
+           [ [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ], [False, 0 ] ]
+    
 
         ] 
 
